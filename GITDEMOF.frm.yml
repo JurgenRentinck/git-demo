@@ -16,12 +16,14 @@
     *
     * **************************************************
     Function Options(*DIRECT)
-    Begin_Com Role(*EXTENDS #PRIM_FORM) Clientwidth(484) Clientheight(301) Componentversion(2)
+    Begin_Com Role(*EXTENDS #PRIM_FORM) Clientwidth(484) Clientheight(301) Componentversion(2) Left(652) Top(304)
     
     Evtroutine Handling(#com_owner.CreateInstance)
     
     Set Com(#com_owner) Caption(*component_desc)
     
+    
+    * test
     Endroutine
     
     End_Com
