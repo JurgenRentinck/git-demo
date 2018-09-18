@@ -20,7 +20,7 @@
     
     Evtroutine Handling(#com_owner.CreateInstance)
     
-    Set Com(#com_owner) Caption(*component_desc)
+    Set Com(#com_owner) Caption('Jurgens Form')
     
     
     * test
