@@ -23,7 +23,7 @@
     Set Com(#com_owner) Caption('Jurgens Form')
     
     
-    * test Jurgen kijken wat dit brengt
+    * test Jurgen kijken wat dit brengt, tweede test
     Endroutine
     
     End_Com
