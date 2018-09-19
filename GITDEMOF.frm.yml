@@ -18,6 +18,9 @@
     Function Options(*DIRECT)
     Begin_Com Role(*EXTENDS #PRIM_FORM) Clientwidth(484) Clientheight(301) Componentversion(2) Left(652) Top(304)
     
+    Define_Com Class(#PRIM_PANL) Name(#Panel1) Displayposition(1) Left(45) Parent(#COM_OWNER) Tabposition(1) Tabstop(False) Top(48)
+    Define_Com Class(#PRIM_PHBN) Name(#Button1) Caption('Button1') Displayposition(2) Left(141) Parent(#COM_OWNER) Tabposition(2) Top(158)
+    
     Evtroutine Handling(#com_owner.CreateInstance)
     
     Set Com(#com_owner) Caption('Jurgens Form')
