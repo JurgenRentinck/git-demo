@@ -29,4 +29,7 @@
     * test Jurgen kijken wat dit brengt, tweede test   doet'ie het of doet'ie het niet
     Endroutine
     
+    Evtroutine Handling(#Button1.Click)
+    
+    Endroutine
     End_Com
